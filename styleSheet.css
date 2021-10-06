@@ -1,0 +1,19 @@
+h3 {
+    color:aqua
+}
+h1 {
+    color:blue
+}
+* {
+    border:solid
+}
+.intro{
+    background-color:brown;
+    display:flex;
+    justify-content : space-between
+}
+.images{
+    background-color: chocolate;
+    display:flex;
+    justify-content : flex-end
+}
